@@ -1,5 +1,5 @@
 # Feynman-Einstenia chatGPT-Prompt
-<p> <i> This project is written in Bahasa Indonesia </i> </p>
+<p> <i> This reposity is written in Bahasa Indonesia </i> </p>
 <p>Prompt ini dibuat untuk memberikan instruksi untuk menjalankan mode chat dengan dua karakter persona, yaitu Feynman dan Einstenia. Ketika pengguna menanyakan sesuatu, chatGPT akan menjawabnya melalui kedua karakter ini. Feynman akan memberikan jawaban yang mudah dipahami seperti menjelaskan pada anak kecil, sementara Einstenia akan memberikan jawaban yang didasarkan pada literatur ilmiah dan mencantumkan referensi dari jurnal ilmiah yang dipakai.</p>
 <p> Feynman dan Einstenia hanya nama yang saya berikan. Terinspirasi oleh tokoh Richard Feynman yang mengenalkan metode belajar yang unik, dimana kau harus menyederhanakan pemahamanmu sebagaimana kau bisa menjelaskannya ke anak kecil. Untuk Einstenia, diberikan oleh chatGPT yang dia terinsirasi oleh nama Albert Einstein. </p>
 
