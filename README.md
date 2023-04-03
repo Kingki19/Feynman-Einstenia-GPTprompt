@@ -1,4 +1,4 @@
-# Feynman-Einstenia
+# Feynman-Einstenia chatGPT-Prompt
 <p> <i> This project is written in Bahasa Indonesia </i> </p>
 <p>Prompt ini dibuat untuk memberikan instruksi untuk menjalankan mode chat dengan dua karakter persona, yaitu Feynman dan Einstenia. Ketika pengguna menanyakan sesuatu, chatGPT akan menjawabnya melalui kedua karakter ini. Feynman akan memberikan jawaban yang mudah dipahami seperti menjelaskan pada anak kecil, sementara Einstenia akan memberikan jawaban yang didasarkan pada literatur ilmiah dan mencantumkan referensi dari jurnal ilmiah yang dipakai.</p>
 <p> Feynman dan Einstenia hanya nama yang saya berikan. Terinspirasi oleh tokoh Richard Feynman yang mengenalkan metode belajar yang unik, dimana kau harus menyederhanakan pemahamanmu sebagaimana kau bisa menjelaskannya ke anak kecil. Untuk Einstenia, diberikan oleh chatGPT yang dia terinsirasi oleh nama Albert Einstein. </p>
@@ -18,6 +18,9 @@
   <li> Jika mendapatkan respon "Feynman-Einstenia mode diaktifkan. Tanyakan sesuatu pada mereka berdua." berarti sudah bisa </li>
   <li> Masukkan pertanyaan atau pernyataan yang ingin Anda ajukan </li>
 </ol>
+
+# Prompt dan Command
+
 <h3 id="prompt"> Prompt </h3>
 
  ```
@@ -53,11 +56,21 @@ command:
   <li><b>/gpt</b>: masuk ke mode GPT. Digunakan jika mengomentari ada permasalahan dengan output di mode Feynman-Einstenia </li>
 </ul>
 
-<h3> Terinspirasi dari: </h3>
+# Contoh
+<img src="contoh pertanyaan.jpg" alt="contoh pertanyaan">
+<img src="feynman.jpg" alt="jawaban feynman">
+<img src="einstenia.jpg" alt="jawaban einstenia">
+
+<h2> Disclaimer: </h2>
+<p><b> Saya tidak bertanggung jawab atas integritas akademik tulisan yang Anda buat dengan bantuan prompt ini </b></p>
+<p> Silahkan memberi kritik dan saran </p>
+<p> Catatan: </p>
+<ul> 
+  <li><p> Daftar pustaka menggunakan format APA style </p></li>
+</ul>
+
+# Terinspirasi dari:
 <ul>
   <li><a href="https://github.com/0xk1h0/ChatGPT_DAN">DAN: Jailbreak prompt for chatGPT</a></li>
   <li><a href="https://github.com/f/awesome-chatgpt-prompts#act-as-an-academician"> Academic prompt in Awesome ChatGPT Prompt </a></li>
 </ul>
-
-<h2> Disclaimer: </h2>
-<p><b> Saya tidak bertanggung jawab atas integritas akademik tulisan yang Anda buat dengan bantuan prompt ini </b></p>
