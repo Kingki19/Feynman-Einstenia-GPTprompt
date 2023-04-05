@@ -113,5 +113,5 @@ command:
   <li><a href="https://github.com/f/awesome-chatgpt-prompts#act-as-an-academician"> Academic prompt in Awesome ChatGPT Prompt </a></li>
 </ul>
 
-<i><b> masih berusaha untuk menyempurnakan prompt ini. Jika ada masalah ataupun masukan/jawaban tentang <a href="permasalahan">permasalahan pada prompt</a>, tambahkan di issue.</b></i>
+<i><b> masih berusaha untuk menyempurnakan prompt ini. Jika ada masalah ataupun masukan/jawaban tentang <a href="#permasalahan">permasalahan pada prompt</a>, tambahkan di issue.</b></i>
 <blockquote><i>Terakhir diedit pada tanggal: 6 April 2023 </i></blockquote>
